@@ -12,6 +12,9 @@ djangorestframework = "^3.15.2"
 black = "^24.4.2"
 gunicorn = "^22.0.0"
 django-cors-headers = "^4.4.0"
+dj-rest-auth = "^6.0.0"
+django-allauth = "^64.0.0"
+requests = "^2.32.3"
 
 
 [build-system]
